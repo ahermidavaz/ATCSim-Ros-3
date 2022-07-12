@@ -1,0 +1,18 @@
+string type
+string airline
+float64 starting_time
+float64 time
+float64 posi_x
+float64 posi_y
+uint32 posf_x
+
+---
+
+uint32 terminal
+uint32 a_runaway
+uint32 d_runaway
+float64 a_time
+bool delay
+bool generate
+bool achieved
+
