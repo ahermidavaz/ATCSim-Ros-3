@@ -1,0 +1,14 @@
+header:
+  seq: 999
+  stamp:
+    secs: 1435607489
+    nsecs: 924811809
+  frame_id: world
+status:
+  status: 0
+  service: 1
+latitude: 40.492780
+longitude: -3.568154
+altitude: -400.551
+position_covariance: [0, 0.0, 0.0, 0.0, 0, 0.0, 0.0, 0.0, 7.650756]
+position_covariance_type: 2

@@ -1,0 +1,9 @@
+uint32 code  # 1  = current flight list; 2 = current points; 3 = current time; 4 = current speed multiplier
+
+---
+float64 speed
+float64 points
+float64 time
+Flight[] flights
+bool achieved
+string expl
